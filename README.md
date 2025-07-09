@@ -16,7 +16,7 @@ I mostly build small projects and tools — part experiment, part impulse, part 
 
 ## Activity Graph
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=krahul2024&area=true&hide_border=true&color=191919&line=2f81f7&point=1f6feb&theme=dark)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=krahul2024&area=true&hide_border=true&theme=github-dark)
 
 
 > NOTE: Not everything here is polished or production-ready. Some stuff may break or be half-finished.
