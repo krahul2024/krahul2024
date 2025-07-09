@@ -11,7 +11,7 @@ I mostly build small projects and tools — part experiment, part impulse, part 
 
 ## Languages Used
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=krahul2024&layout=compact&count_private=true&theme=dark&hide_title=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=krahul2024&layout=compact&count_private=true&theme=dark&hide_title=true&langs_count=20)
 
 
 ## Activity Graph
