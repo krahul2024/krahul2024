@@ -1,7 +1,6 @@
 # About
 
-Rahul here,
-I mostly build small projects and tools — part experiment, part impulse, part things I actually end up using.
+**Rahul here**,  I mostly build small projects and tools — part experiment, part impulse, part things I actually end up using.
 
 
 ## Stats
